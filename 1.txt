@@ -1,0 +1,26 @@
+{
+"video_id": 1,
+"interact_array": [{
+"time": 1000,
+"interact_type": 1
+}, {
+"time": 5000,
+"interact_type": 2
+}, {
+"time": 10000,
+"interact_type": 3
+}, {
+"time": 15000,
+"interact_type": 2
+}, {
+"time": 20000,
+"interact_type": 3
+}, {
+"time": 30000,
+"interact_type": 1
+}, {
+"time": 50000,
+"interact_type": 2
+}
+]
+}
