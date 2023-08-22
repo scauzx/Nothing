@@ -1,26 +1,308 @@
 {
-"video_id": 1,
-"interact_array": [{
-"time": 1000,
-"interact_type": 1
-}, {
-"time": 5000,
-"interact_type": 2
-}, {
-"time": 10000,
-"interact_type": 3
-}, {
-"time": 15000,
-"interact_type": 2
-}, {
-"time": 20000,
-"interact_type": 3
-}, {
-"time": 30000,
-"interact_type": 1
-}, {
-"time": 50000,
-"interact_type": 2
-}
-]
-}
+	"time_array": [{
+		"time": 5000,
+		"interact_array": [{
+			"interact_type": 1,
+			"interact_sub_type": 1,
+			"area_id": 3,
+			"seat_position": 70
+		}, {
+			"interact_type": 1,
+			"interact_sub_type": 2,
+			"area_id": 4,
+			"seat_position": 29
+		}]
+	}, {
+		"time": 10000,
+		"interact_array": [{
+			"interact_type": 1,
+			"interact_sub_type": 3,
+			"area_id": 5,
+			"seat_position": 170
+		}, {
+			"interact_type": 1,
+			"interact_sub_type": 4,
+			"area_id": 6,
+			"seat_position": 39
+		}, {
+			"interact_type": 1,
+			"interact_sub_type": 5,
+			"area_id": 3,
+			"seat_position": 49
+		}]
+	}, {
+		"time": 20000,
+		"interact_array": [{
+			"interact_type": 2,
+			"interact_sub_type": 1,
+			"switch_status": 1,
+			"area_id": 1
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 1,
+			"switch_status": 0,
+			"area_id": 2
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 2,
+			"area_id": 2,
+			"temperature": 18
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 2,
+			"area_id": 3,
+			"temperature": 17
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 2,
+			"area_id": 4,
+			"temperature": 21
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 3,
+			"fragance_taste": 0
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 3,
+			"fragance_taste": 1
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 3,
+			"fragance_taste": 2
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 3,
+			"fragance_taste": 3
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 3,
+			"fragance_taste": 4
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 4,
+			"fragance_status": 0
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 4,
+			"fragance_status": 1
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 4,
+			"fragance_status": 2
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 4,
+			"fragance_status": 3
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 4,
+			"fragance_status": 4
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 4,
+			"fragance_status": 5
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 5,
+			"fragance_status": 5
+		}]
+	}, {
+		"time": 20000,
+		"interact_array": [{
+			"interact_type": 2,
+			"interact_sub_type": 1,
+			"switch_status": 1,
+			"area_id": 1
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 1,
+			"switch_status": 0,
+			"area_id": 2
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 2,
+			"area_id": 2,
+			"temperature": 18
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 2,
+			"area_id": 3,
+			"temperature": 17
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 2,
+			"area_id": 4,
+			"temperature": 21
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 3,
+			"fragance_taste": 0
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 3,
+			"fragance_taste": 1
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 3,
+			"fragance_taste": 2
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 3,
+			"fragance_taste": 3
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 3,
+			"fragance_taste": 4
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 4,
+			"fragance_status": 0
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 4,
+			"fragance_status": 1
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 4,
+			"fragance_status": 2
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 4,
+			"fragance_status": 3
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 4,
+			"fragance_status": 4
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 4,
+			"fragance_status": 5
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 5,
+			"fragance_status": 5
+		}]
+	}, {
+		"time": 30000,
+		"interact_array": [{
+			"interact_type": 3,
+			"interact_sub_type": 1,
+			"switch_status": 0
+		}, {
+			"interact_type": 3,
+			"interact_sub_type": 1,
+			"switch_status": 1
+		}, {
+			"interact_type": 3,
+			"interact_sub_type": 2,
+			"enl_al_user_mode": 1
+		}, {
+			"interact_type": 3,
+			"interact_sub_type": 2,
+			"enl_al_user_mode": 2
+		}, {
+			"interact_type": 3,
+			"interact_sub_type": 3,
+			"enl_al_user_mode": 3
+		}, {
+			"interact_type": 3,
+			"interact_sub_type": 4,
+			"enl_al_user_mode": 3
+		}, {
+			"interact_type": 3,
+			"interact_sub_type": 4,
+			"enl_al_color": 3
+		}, {
+			"interact_type": 3,
+			"interact_sub_type": 4,
+			"enl_al_color": 31
+		}, {
+			"interact_type": 3,
+			"interact_sub_type": 4,
+			"enl_al_color": 50
+		}, {
+			"interact_type": 3,
+			"interact_sub_type": 5,
+			"enl_al_color": 50
+		}]
+	}, {
+		"time": 40000,
+		"interact_array": [{
+			"interact_type": 4,
+			"interact_sub_type": 1,
+			"area_id": 3,
+			"window_position": 50
+		}, {
+			"interact_type": 4,
+			"interact_sub_type": 1,
+			"area_id": 4,
+			"window_position": 100
+		}, {
+			"interact_type": 4,
+			"interact_sub_type": 1,
+			"area_id": 5,
+			"window_position": 150
+		}, {
+			"interact_type": 4,
+			"interact_sub_type": 1,
+			"area_id": 6,
+			"window_position": 200
+		}, {
+			"interact_type": 4,
+			"interact_sub_type": 1,
+			"area_id": 22,
+			"window_position": 200
+		}, {
+			"interact_type": 4,
+			"interact_sub_type": 1,
+			"area_id": 1,
+			"window_position": 200
+		}, {
+			"interact_type": 4,
+			"interact_sub_type": 1,
+			"area_id": 6,
+			"window_position": 290
+		}, {
+			"interact_type": 4,
+			"interact_sub_type": 2,
+			"area_id": 1,
+			"door_lock_status": 1
+		}, {
+			"interact_type": 4,
+			"interact_sub_type": 2,
+			"area_id": 2,
+			"door_lock_status": 1
+		}, {
+			"interact_type": 4,
+			"interact_sub_type": 2,
+			"area_id": 3,
+			"door_lock_status": 1
+		}, {
+			"interact_type": 4,
+			"interact_sub_type": 2,
+			"area_id": 4,
+			"door_lock_status": 0
+		}, {
+			"interact_type": 4,
+			"interact_sub_type": 2,
+			"area_id": 5,
+			"door_lock_status": 1
+		}, {
+			"interact_type": 4,
+			"interact_sub_type": 2,
+			"area_id": 6,
+			"door_lock_status": 0
+		}, {
+			"interact_type": 4,
+			"interact_sub_type": 2,
+			"area_id": 6,
+			"door_lock_status": 3
+		}, {
+			"interact_type": 4,
+			"interact_sub_type": 3,
+			"area_id": 6,
+			"door_lock_status": 3
+		}]
+	}]
+
+}}
