@@ -1,6 +1,7 @@
 {
+	"video_id": 1,
 	"time_array": [{
-		"time": 5000,
+		"time": 5,
 		"interact_array": [{
 			"interact_type": 1,
 			"interact_sub_type": 1,
@@ -13,7 +14,7 @@
 			"seat_position": 29
 		}]
 	}, {
-		"time": 10000,
+		"time": 10,
 		"interact_array": [{
 			"interact_type": 1,
 			"interact_sub_type": 3,
@@ -31,7 +32,7 @@
 			"seat_position": 49
 		}]
 	}, {
-		"time": 20000,
+		"time": 20,
 		"interact_array": [{
 			"interact_type": 2,
 			"interact_sub_type": 1,
@@ -60,130 +61,58 @@
 		}, {
 			"interact_type": 2,
 			"interact_sub_type": 3,
-			"fragance_taste": 0
+			"wind_speed": 0
 		}, {
 			"interact_type": 2,
 			"interact_sub_type": 3,
-			"fragance_taste": 1
+			"wind_speed": -1
 		}, {
 			"interact_type": 2,
 			"interact_sub_type": 3,
-			"fragance_taste": 2
+			"wind_speed": 1
 		}, {
 			"interact_type": 2,
 			"interact_sub_type": 3,
-			"fragance_taste": 3
+			"wind_speed": 4
 		}, {
 			"interact_type": 2,
 			"interact_sub_type": 3,
-			"fragance_taste": 4
+			"wind_speed": 10
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 3,
+			"wind_speed": 11
+		},{
+			"interact_type": 2,
+			"interact_sub_type": 4,
+			"fragance_taste_ids": [1,2,3]
 		}, {
 			"interact_type": 2,
 			"interact_sub_type": 4,
+			"fragance_taste_ids": [2,3,4]
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 4,
+			"fragance_taste_ids": [5]
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 4,
+			"fragance_taste_ids": [0]
+		}, {
+			"interact_type": 2,
+			"interact_sub_type": 5,
 			"fragance_status": 0
 		}, {
 			"interact_type": 2,
-			"interact_sub_type": 4,
-			"fragance_status": 1
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 4,
+			"interact_sub_type": 5,
 			"fragance_status": 2
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 4,
-			"fragance_status": 3
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 4,
-			"fragance_status": 4
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 4,
-			"fragance_status": 5
 		}, {
 			"interact_type": 2,
 			"interact_sub_type": 5,
 			"fragance_status": 5
 		}]
 	}, {
-		"time": 20000,
-		"interact_array": [{
-			"interact_type": 2,
-			"interact_sub_type": 1,
-			"switch_status": 1,
-			"area_id": 1
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 1,
-			"switch_status": 0,
-			"area_id": 2
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 2,
-			"area_id": 2,
-			"temperature": 18
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 2,
-			"area_id": 3,
-			"temperature": 17
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 2,
-			"area_id": 4,
-			"temperature": 21
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 3,
-			"fragance_taste": 0
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 3,
-			"fragance_taste": 1
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 3,
-			"fragance_taste": 2
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 3,
-			"fragance_taste": 3
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 3,
-			"fragance_taste": 4
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 4,
-			"fragance_status": 0
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 4,
-			"fragance_status": 1
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 4,
-			"fragance_status": 2
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 4,
-			"fragance_status": 3
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 4,
-			"fragance_status": 4
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 4,
-			"fragance_status": 5
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 5,
-			"fragance_status": 5
-		}]
-	}, {
-		"time": 30000,
+		"time": 30,
 		"interact_array": [{
 			"interact_type": 3,
 			"interact_sub_type": 1,
@@ -226,7 +155,7 @@
 			"enl_al_color": 50
 		}]
 	}, {
-		"time": 40000,
+		"time": 40,
 		"interact_array": [{
 			"interact_type": 4,
 			"interact_sub_type": 1,
@@ -305,4 +234,4 @@
 		}]
 	}]
 
-}}
+}
