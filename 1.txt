@@ -1,236 +1,116 @@
 {
 	"time_array": [{
-		"time": 5,
+		"time": 4,
 		"interact_array": [{
-			"interact_type": 1,
-			"interact_sub_type": 1,
-			"area_id": 3,
-			"seat_position": 70
-		}, {
-			"interact_type": 1,
-			"interact_sub_type": 2,
-			"area_id": 4,
-			"seat_position": 29
+			"interact_type": 2,
+			"interact_sub_type": 3,
+			"area_id": 1,
+			"wind_speed": 10
 		}]
 	}, {
-		"time": 10,
+
+		"time": 11,
 		"interact_array": [{
-			"interact_type": 1,
-			"interact_sub_type": 3,
-			"area_id": 5,
-			"seat_position": 170
-		}, {
-			"interact_type": 1,
-			"interact_sub_type": 4,
-			"area_id": 6,
-			"seat_position": 39
-		}, {
-			"interact_type": 1,
-			"interact_sub_type": 5,
-			"area_id": 3,
-			"seat_position": 49
+			"interact_type": 6,
+			"interact_sub_type": 1,
+			"sound_id": 6
 		}]
 	}, {
-		"time": 20,
+		"time": 14,
 		"interact_array": [{
 			"interact_type": 2,
-			"interact_sub_type": 1,
-			"switch_status": 1,
-			"area_id": 1
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 1,
-			"switch_status": 0,
-			"area_id": 2
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 2,
-			"area_id": 2,
-			"temperature": 18
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 2,
-			"area_id": 3,
-			"temperature": 17
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 2,
-			"area_id": 4,
-			"temperature": 21
-		}, {
-			"interact_type": 2,
 			"interact_sub_type": 3,
-			"wind_speed": 0
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 3,
+			"area_id": 1,
 			"wind_speed": -1
 		}, {
+			"interact_type": 6,
+			"interact_sub_type": 1,
+			"sound_id": -1
+		}]
+	}, {
+		"time": 16,
+		"interact_array": [{
+			"interact_type": 3,
+			"interact_sub_type": 3,
+			"enl_al_color": 17
+		}]
+	}, {
+		"time": 27,
+		"interact_array": [{
+			"interact_type": 3,
+			"interact_sub_type": 3,
+			"enl_al_color": 15
+		}]
+	}, {
+		"time": 104,
+		"interact_array": [{
+			"interact_type": 6,
+			"interact_sub_type": 1,
+			"sound_id": 6
+		}]
+	}, {
+		"time": 105,
+		"interact_array": [{
+			"interact_type": 6,
+			"interact_sub_type": 1,
+			"sound_id": -1
+		}]
+	}, {
+		"time": 114,
+		"interact_array": [{
+			"interact_type": 6,
+			"interact_sub_type": 1,
+			"sound_id": 6
+		}]
+	}, {
+		"time": 115,
+		"interact_array": [{
+			"interact_type": 6,
+			"interact_sub_type": 1,
+			"sound_id": -1
+		}]
+	}, {
+		"time": 118,
+		"interact_array": [{
+			"interact_type": 3,
+			"interact_sub_type": 3,
+			"enl_al_color": 13
+		}]
+	}, {
+		"time": 173,
+		"interact_array": [{
 			"interact_type": 2,
 			"interact_sub_type": 3,
-			"wind_speed": 1
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 3,
-			"wind_speed": 4
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 3,
+			"area_id": 1,
 			"wind_speed": 10
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 3,
-			"wind_speed": 11
-		},{
-			"interact_type": 2,
-			"interact_sub_type": 4,
-			"fragance_taste_ids": [1,2,3]
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 4,
-			"fragance_taste_ids": [2,3,4]
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 4,
-			"fragance_taste_ids": [5]
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 4,
-			"fragance_taste_ids": [0]
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 5,
-			"fragance_status": 0
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 5,
-			"fragance_status": 2
-		}, {
-			"interact_type": 2,
-			"interact_sub_type": 5,
-			"fragance_status": 5
 		}]
 	}, {
-		"time": 30,
+		"time": 197,
 		"interact_array": [{
-			"interact_type": 3,
-			"interact_sub_type": 1,
-			"switch_status": 0
-		}, {
-			"interact_type": 3,
-			"interact_sub_type": 1,
-			"switch_status": 1
-		}, {
-			"interact_type": 3,
-			"interact_sub_type": 2,
-			"enl_al_user_mode": 1
-		}, {
-			"interact_type": 3,
-			"interact_sub_type": 2,
-			"enl_al_user_mode": 2
-		}, {
-			"interact_type": 3,
+			"interact_type": 2,
 			"interact_sub_type": 3,
-			"enl_al_user_mode": 3
-		}, {
-			"interact_type": 3,
-			"interact_sub_type": 4,
-			"enl_al_user_mode": 3
-		}, {
-			"interact_type": 3,
-			"interact_sub_type": 4,
-			"enl_al_color": 3
-		}, {
-			"interact_type": 3,
-			"interact_sub_type": 4,
-			"enl_al_color": 31
-		}, {
-			"interact_type": 3,
-			"interact_sub_type": 4,
-			"enl_al_color": 50
-		}, {
-			"interact_type": 3,
-			"interact_sub_type": 5,
-			"enl_al_color": 50
+			"area_id": 1,
+			"wind_speed": -1
 		}]
 	}, {
-		"time": 40,
+		"time": 227,
 		"interact_array": [{
-			"interact_type": 4,
-			"interact_sub_type": 1,
-			"area_id": 3,
-			"window_position": 50
-		}, {
-			"interact_type": 4,
-			"interact_sub_type": 1,
-			"area_id": 4,
-			"window_position": 100
-		}, {
-			"interact_type": 4,
-			"interact_sub_type": 1,
-			"area_id": 5,
-			"window_position": 150
-		}, {
-			"interact_type": 4,
-			"interact_sub_type": 1,
-			"area_id": 6,
-			"window_position": 200
-		}, {
-			"interact_type": 4,
-			"interact_sub_type": 1,
-			"area_id": 22,
-			"window_position": 200
-		}, {
-			"interact_type": 4,
-			"interact_sub_type": 1,
-			"area_id": 1,
-			"window_position": 200
-		}, {
-			"interact_type": 4,
-			"interact_sub_type": 1,
-			"area_id": 6,
-			"window_position": 290
-		}, {
-			"interact_type": 4,
-			"interact_sub_type": 2,
-			"area_id": 1,
-			"door_lock_status": 1
-		}, {
-			"interact_type": 4,
-			"interact_sub_type": 2,
-			"area_id": 2,
-			"door_lock_status": 1
-		}, {
-			"interact_type": 4,
-			"interact_sub_type": 2,
-			"area_id": 3,
-			"door_lock_status": 1
-		}, {
-			"interact_type": 4,
-			"interact_sub_type": 2,
-			"area_id": 4,
-			"door_lock_status": 0
-		}, {
-			"interact_type": 4,
-			"interact_sub_type": 2,
-			"area_id": 5,
-			"door_lock_status": 1
-		}, {
-			"interact_type": 4,
-			"interact_sub_type": 2,
-			"area_id": 6,
-			"door_lock_status": 0
-		}, {
-			"interact_type": 4,
-			"interact_sub_type": 2,
-			"area_id": 6,
-			"door_lock_status": 3
-		}, {
-			"interact_type": 4,
+			"interact_type": 2,
 			"interact_sub_type": 3,
-			"area_id": 6,
-			"door_lock_status": 3
+			"area_id": 1,
+			"wind_speed": 10
+		}]
+	}, {
+		"time": 295,
+		"interact_array": [{
+			"interact_type": 2,
+			"interact_sub_type": 3,
+			"area_id": 1,
+			"wind_speed": -1
+		}, {
+			"interact_type": 3,
+			"interact_sub_type": 3,
+			"enl_al_color": 0
 		}]
 	}]
-
 }
