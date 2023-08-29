@@ -7,25 +7,13 @@
 			"area_id": 1,
 			"wind_speed": 10
 		}]
-	}, {
-
-		"time": 11,
-		"interact_array": [{
-			"interact_type": 6,
-			"interact_sub_type": 1,
-			"sound_id": 6
-		}]
-	}, {
+	},{
 		"time": 14,
 		"interact_array": [{
 			"interact_type": 2,
 			"interact_sub_type": 3,
 			"area_id": 1,
 			"wind_speed": -1
-		}, {
-			"interact_type": 6,
-			"interact_sub_type": 1,
-			"sound_id": -1
 		}]
 	}, {
 		"time": 16,
@@ -48,26 +36,12 @@
 			"interact_sub_type": 1,
 			"sound_id": 6
 		}]
-	}, {
-		"time": 105,
-		"interact_array": [{
-			"interact_type": 6,
-			"interact_sub_type": 1,
-			"sound_id": -1
-		}]
-	}, {
+	},  {
 		"time": 114,
 		"interact_array": [{
 			"interact_type": 6,
 			"interact_sub_type": 1,
 			"sound_id": 6
-		}]
-	}, {
-		"time": 115,
-		"interact_array": [{
-			"interact_type": 6,
-			"interact_sub_type": 1,
-			"sound_id": -1
 		}]
 	}, {
 		"time": 118,
