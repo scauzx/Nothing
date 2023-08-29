@@ -29,21 +29,7 @@
 			"interact_sub_type": 3,
 			"enl_al_color": 15
 		}]
-	}, {
-		"time": 104,
-		"interact_array": [{
-			"interact_type": 6,
-			"interact_sub_type": 1,
-			"sound_id": 6
-		}]
 	},  {
-		"time": 114,
-		"interact_array": [{
-			"interact_type": 6,
-			"interact_sub_type": 1,
-			"sound_id": 6
-		}]
-	}, {
 		"time": 118,
 		"interact_array": [{
 			"interact_type": 3,
