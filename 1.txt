@@ -5,7 +5,8 @@
 			"interact_type": 2,
 			"interact_sub_type": 3,
 			"area_id": 1,
-			"wind_speed": 10
+			"duration": 10,
+			"wind_speed": 8
 		}]
 	}, {
 
@@ -13,25 +14,15 @@
 		"interact_array": [{
 			"interact_type": 6,
 			"interact_sub_type": 1,
-			"sound_id": 6
-		}]
-	}, {
-		"time": 14,
-		"interact_array": [{
-			"interact_type": 2,
-			"interact_sub_type": 3,
-			"area_id": 1,
-			"wind_speed": -1
-		}, {
-			"interact_type": 6,
-			"interact_sub_type": 1,
-			"sound_id": -1
+			"sound_id": 3,
+			"duration": 3
 		}]
 	}, {
 		"time": 16,
 		"interact_array": [{
 			"interact_type": 3,
 			"interact_sub_type": 3,
+			"duration": 11,
 			"enl_al_color": 17
 		}]
 	}, {
@@ -39,6 +30,7 @@
 		"interact_array": [{
 			"interact_type": 3,
 			"interact_sub_type": 3,
+			"duration": 91,
 			"enl_al_color": 15
 		}]
 	}, {
@@ -46,79 +38,48 @@
 		"interact_array": [{
 			"interact_type": 6,
 			"interact_sub_type": 1,
-			"sound_id": 6
+			"sound_id": 3,
+			"duration": 1
 		}]
-}, {
-		"time": 105,
-		"interact_array": [{
-			"interact_type": 6,
-			"interact_sub_type": 1,
-			"sound_id": -1
-		}]
-}, {
+	}, {
 		"time": 114,
 		"interact_array": [{
 			"interact_type": 6,
 			"interact_sub_type": 1,
-			"sound_id": 6
+			"sound_id": 3,
+			"duration": 1
 		}]
-}, {
-		"time": 115,
-		"interact_array": [{
-			"interact_type": 6,
-			"interact_sub_type": 1,
-			"sound_id": -1
-		}]
-}, {
+	}, {
 		"time": 118,
 		"interact_array": [{
 			"interact_type": 3,
 			"interact_sub_type": 3,
-			"enl_al_color": 13
+			"enl_al_color": 13,
+			"duration": 177
 		}]
-}, {
+	}, {
 		"time": 173,
 		"interact_array": [{
 			"interact_type": 2,
 			"interact_sub_type": 3,
 			"area_id": 1,
-			"wind_speed": 10
-	}]
-}, {
-		"time": 197,
-		"interact_array": [{
-			"interact_type": 2,
-			"interact_sub_type": 3,
-			"area_id": 1,
-			"wind_speed": -1
-	}]
-}, {
+			"wind_speed": 8,
+			"duration": 24
+		}]
+	}, {
 		"time": 227,
 		"interact_array": [{
 			"interact_type": 2,
 			"interact_sub_type": 3,
 			"area_id": 1,
-			"wind_speed": 10
-}, {
+			"wind_speed": 8,
+			"duration": 68
+
+		}, {
 			"interact_type": 2,
 			"interact_sub_type": 4,
-			"fragance_taste": [5,4,3]
-         }]
-}, {
-		"time": 295,
-		"interact_array": [{
-			"interact_type": 2,
-			"interact_sub_type": 3,
-			"area_id": 1,
-			"wind_speed": -1
-}, {
-			"interact_type": 3,
-			"interact_sub_type": 3,
-			"enl_al_color": 0
-}, {
-			"interact_type": 2,
-			"interact_sub_type": 4,
-			"fragance_taste": [-1]
+			"fragance_taste": [5,4,3,2,1,6],
+			"duration": 68
+		}]
 	}]
-}]
 }
